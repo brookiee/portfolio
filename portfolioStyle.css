@@ -1,3 +1,13 @@
 body {
     background: pink
 }
+#paragraph1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.753);
+    font-size: 1rem
+}
+#paragraph2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba (0, 0, 0);
+    font-size: 1rem
+}
