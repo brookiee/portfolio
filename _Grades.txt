@@ -1,0 +1,29 @@
+Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+
+Grade: 85
+
+Comment: Technically your paragraphs do appear styled differently, but because your <div> tag is broken, part of the styles are from the div, not paragraph1 and paragraph2.  Becuase of that I took off 5 points.  Also -10 points for being late.
+
+########
+
+Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
+
+Grade: 90
+
+Comment:   You completed the assignment correctly, but -10 points for being late.
+
+########
+
+Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 100
+
+Comment: Overall, very clean.  I did add one small TODO item, which you can see by clicking on the ToDo Tree icon on the left.
+
+########
+
+Assignment: Use Google Forms to add a contact form to your page.
+
+Grade: 100
+
+Comment:  You got this in early, good job.
