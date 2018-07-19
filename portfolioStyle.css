@@ -3,13 +3,13 @@ body {
 }
 
 #paragraph1 {
-    font-family: Monda;
+    font-family:'Merienda', cursive;
     color:black;
-    font-size: 1rem
+    font-size: 2rem
 }
 
 #paragraph2 {
-    font-family: Monda;
+    font-family:'Open Sans', sans-serif;
     color:black;
     font-size: 1rem
 }
