@@ -25,6 +25,6 @@ div{
             border-width: 10px;
             margin: 3em;
 }
-p:hover, h1:hover, a:hover {
+p:hover, h1:hover, a:hover{
     background-color: blueviolet;
 }
