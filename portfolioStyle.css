@@ -5,13 +5,7 @@ body {
 #paragraph1 {
     font-family:'Merienda', cursive;
     color:black;
-    font-size: 2rem
-}
-
-#paragraph2 {
-    font-family:'Open Sans', sans-serif;
-    color:black;
-    font-size: 1rem
+    font-size: 1.5rem
 }
 div{
     float:left;
@@ -25,6 +19,6 @@ div{
             border-width: 10px;
             margin: 3em;
 }
-p:hover, h1:hover, a:hover{
+p:hover, h1:hover, a:hover  {
     background-color: blueviolet;
 }
