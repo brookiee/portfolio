@@ -7,7 +7,17 @@ body {
     color:black;
     font-size: 1.5rem
 }
-div{
+@media screen and (min-width: 501px) {
+    #p1{
+        margin: 3em;
+    }
+}
+@media screen and (max-width: 500px) {
+    #p1{
+        margin: none;
+    }
+}
+#p1{
     float:left;
     font-size:30px;
     color:black;
@@ -15,9 +25,13 @@ div{
         width:30%;
             padding:10px;
             border-style: solid;
-            border-color: gold;
+            border-color:gold;
             border-width: 10px;
-            margin: 3em;
+}
+#image{
+    float:right;
+    margin: 5em;
+    margin-top: 15em;
 }
 p:hover, h1:hover, a:hover  {
     background-color: blueviolet;
