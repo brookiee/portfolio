@@ -3,36 +3,41 @@ body {
 }
 
 #paragraph1 {
-    font-family:'Merienda', cursive;
-    color:black;
+    font-family: 'Merienda', cursive;
+    color: black;
     font-size: 1.5rem
 }
+
 @media screen and (min-width: 501px) {
-    #p1{
+    #p1 {
         margin: 3em;
-        width:30%;
+        width: 30%;
     }
 }
+
 @media screen and (max-width: 500px) {
-    #image{
-        float:none;
+    #image {
+        float: none;
     }
 }
-#p1{
-    float:left;
-    font-size:30px;
-    color:black;
+
+#p1 {
+    float: left;
+    font-size: 30px;
+    color: black;
     text-align: left;
-            padding:10px;
-            border-style: solid;
-            border-color:gold;
-            border-width: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-color: gold;
+    border-width: 10px;
 }
-#image{
-    float:right;
+
+#image {
+    float: right;
     margin: 3em;
     margin-top: 15em;
 }
-p:hover, h1:hover, a:hover  {
+
+p:hover, h1:hover, a:hover {
     background-color: blueviolet;
 }

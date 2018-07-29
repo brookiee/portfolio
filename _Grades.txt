@@ -1,0 +1,35 @@
+Portfolio final grade: 95
+
+Comments:  Good first effort.   Try to think a little bit more about what effect your style changes are having and whether they are making the page easier or harder to understand.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 93
+(50% of overall grade)
+
+Points deducted for these items:
+    -4 Default document title not changes on any pages.
+    -3 Google Fonts links not included on 3 pages.
+    
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 97
+(25% of overall grade)
+
+Points deducted for these items:
+    -2 default #image margins don't work well on  mobile layout
+    -1 paragraph :hover behavior can make the page harder to read on the mobile version.
